@@ -2,7 +2,7 @@ import express from 'express';
 import mongoose from "mongoose";
 import "dotenv/config";
 
-import Hello from './Hello.js';
+import Hello from './hello.js';
 import Lab5 from './Lab5/index.js';
 import cors from "cors";
 import UserRoutes from "./Kanbas/Users/routes.js"
